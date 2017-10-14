@@ -1,9 +1,6 @@
 [submodule "vim-pathogen"]
 	path = vim-pathogen
 	url = https://github.com/tpope/vim-pathogen
-[submodule "Command-T"]
-	path = Command-T
-	url = https://github.com/wincent/Command-T
 [submodule "eregex.vim"]
 	path = eregex.vim
 	url = https://github.com/othree/eregex.vim
@@ -19,3 +16,6 @@
 [submodule "tabular"]
 	path = tabular
 	url = https://github.com/godlygeek/tabular
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
